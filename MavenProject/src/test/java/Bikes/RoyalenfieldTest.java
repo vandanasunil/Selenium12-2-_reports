@@ -13,6 +13,7 @@ public class RoyalenfieldTest {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.royalenfield.com/in/en/home/");
 		Reporter.log("Royalenfield launched",true);
+		Reporter.log("Royalenfield launched",true);
 	}
 
 }
