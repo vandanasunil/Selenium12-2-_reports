@@ -9,6 +9,7 @@ public class Test_Demo {
 	public void launch()
 	{
 	   WebDriver driver = new ChromeDriver();
+	   Reporter.log("New Chrome launched",true);
 	}
 
 }
