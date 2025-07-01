@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Bajaj launched]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-06-21T13:40:51 IST" name="Surefire suite" finished-at="2025-06-21T13:40:57 IST" duration-ms="5870">
+    <groups>
+    </groups>
+    <test started-at="2025-06-21T13:40:51 IST" name="Surefire test" finished-at="2025-06-21T13:40:57 IST" duration-ms="5870">
+      <class name="Bikes.BajajTest">
+        <test-method signature="launch()[pri:0, instance:Bikes.BajajTest@6973bf95]" started-at="2025-06-21T13:40:51 IST" name="launch" finished-at="2025-06-21T13:40:57 IST" duration-ms="5833" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Bajaj launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- Bikes.BajajTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
