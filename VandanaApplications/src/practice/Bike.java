@@ -4,7 +4,7 @@ public class Bike extends Vehicle
 {
 	public void strat()
 	{
-		System.out.println("Bike Starts");
+		System.out.println("Bike Starts and vehicle moved");
 	}
 	
 	public void shiftBikeGear()
@@ -13,3 +13,4 @@ public class Bike extends Vehicle
 	}
 
 }
+
